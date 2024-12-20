@@ -1,0 +1,12 @@
+{
+  "name": "smtp-verification-service",
+  "version": "1.0.0",
+  "description": "Simple SMTP server verification service",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
